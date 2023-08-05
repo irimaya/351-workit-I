@@ -28,7 +28,6 @@ h1,
 h2,
 h4 {
   font-family: "DM Serif Display", sans-serif;
-  font-weight: 500;
 }
 
 p {
@@ -79,10 +78,7 @@ a {
   font-weight: 300;
 }
 
-.flex {
-  display: flex;
-}
-
+.flex,
 .flex-fixed {
   display: flex;
 }
@@ -130,7 +126,6 @@ a {
 .mainheader-content .showcase {
   padding-top: 80px;
   padding-bottom: 50px;
-  text-align: center;
   color: #fff;
 }
 .mainheader-content .showcase span {
